@@ -1,0 +1,16 @@
+Ceci est un fichier texte d'exemple pour tester l'upload.
+
+Contenu du fichier :
+- Ligne 1 : Test d'upload
+- Ligne 2 : Chat Terminal App
+- Ligne 3 : Fonctionnalité de fichiers
+
+Date de création : 2025-08-08
+Version : 2.0 Enhanced
+
+Ce fichier peut être utilisé pour tester :
+1. Upload de fichiers texte
+2. Téléchargement de fichiers
+3. Listing des fichiers côté serveur
+
+Fin du fichier d'exemple.

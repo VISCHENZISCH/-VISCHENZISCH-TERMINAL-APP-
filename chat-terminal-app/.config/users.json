@@ -1,0 +1,90 @@
+{
+  "admin": {
+    "username": "admin",
+    "password_hash": "3bcc0f8dae49c7fa2384de72d30d7908$bf68ec1864a49960f475bb0509158c6acf490e77b3069baa1e345ec5cb895924",
+    "email": null,
+    "created_at": "2025-08-08T19:24:43.193299",
+    "last_login": null,
+    "permissions": [
+      "admin"
+    ],
+    "is_active": true
+  },
+  "testuser": {
+    "username": "testuser",
+    "password_hash": "99bf4ec21d9e35fd8c7d7a326cea40de$4ca507c133fce72780baed8557d885ab8d15862e136be37d4b0d341e3d532db1",
+    "email": "test@example.com",
+    "created_at": "2025-08-08T19:24:43.194685",
+    "last_login": "2025-08-08T19:24:43.197744",
+    "permissions": [
+      "user"
+    ],
+    "is_active": true
+  },
+  "demo_user": {
+    "username": "demo_user",
+    "password_hash": "6076ba480a26a8e9e363c0482ef91530$3746678a03d9e179ca078cfa60f30680c7873baee629337140bc960f740e3ccf",
+    "email": "demo@example.com",
+    "created_at": "2025-08-08T19:26:06.184320",
+    "last_login": "2025-08-08T19:26:06.190459",
+    "permissions": [
+      "user"
+    ],
+    "is_active": true
+  },
+  "test_client_user": {
+    "username": "test_client_user",
+    "password_hash": "5e188559d80235e69a1bfe1d9e932ab8$cacfbbc1253a9abb23b8f17192379860d4270c1e90916a812068d4cf92487aa3",
+    "email": "test@client.com",
+    "created_at": "2025-08-08T19:29:39.508522",
+    "last_login": "2025-08-08T19:29:39.513676",
+    "permissions": [
+      "user"
+    ],
+    "is_active": true
+  },
+  "felix": {
+    "username": "felix",
+    "password_hash": "2d55b194a412b339576b01daa3091aa2$752aeebc083471975922be65b0fb5d3b72884ac9c076268f81ce27f75894443b",
+    "email": "felix@gmail.com",
+    "created_at": "2025-08-08T19:38:36.702382",
+    "last_login": "2025-08-09T03:17:50.836192",
+    "permissions": [
+      "user"
+    ],
+    "is_active": true
+  },
+  "tkf": {
+    "username": "tkf",
+    "password_hash": "f5319c240f8dbcb49a8d1955fc791078$ee8dc8e8daa238f2e58f123b6d1ed7b8a5bc8c5a8bf63092651895e4dce030ee",
+    "email": null,
+    "created_at": "2025-08-09T01:45:12.489867",
+    "last_login": null,
+    "permissions": [
+      "user"
+    ],
+    "is_active": true
+  },
+  "bob": {
+    "username": "bob",
+    "password_hash": "afad42ef299008bcc771266643328583$607a24f33aad120a36c1a1aacde76389e6002bf1f3eb0015e72793a1599bded2",
+    "email": null,
+    "created_at": "2025-08-09T01:49:36.210812",
+    "last_login": null,
+    "permissions": [
+      "user"
+    ],
+    "is_active": true
+  },
+  "bob2": {
+    "username": "bob2",
+    "password_hash": "c5df208c883ff37606992cd6c251e621$b9598355ab541d224733939032ab641fdf9889bcae9ecfbf04e78e429ff3c280",
+    "email": "bob2@gmail.com",
+    "created_at": "2025-08-09T02:02:44.490566",
+    "last_login": "2025-08-09T02:48:37.654570",
+    "permissions": [
+      "user"
+    ],
+    "is_active": true
+  }
+}
